@@ -1,1 +1,5 @@
-# Process-Control
+# Process Control
+
+
+## Relative Gain Array
+* [RGA](https://youtu.be/fJhlaM_uc0w?si=AqVZ9sqKkQJXZyLJ)
